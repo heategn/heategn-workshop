@@ -11,10 +11,9 @@ layout: default
 ## Chess Drills
 <a name="chessdrills"></a>
 
-[project page][chessdrills]
+[Go to project][chessdrills]
 
 Chess Drills is a suite of drills designed to improve your chess.
 
 ![invisible-pairs](https://github.com/heategn/site/raw/master/cdanimation.gif)
 
-Note: This graphic quality on this sample is much lower that what you'd actually see on your screen.
