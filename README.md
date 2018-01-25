@@ -1,6 +1,6 @@
 # Projects
 
-[chessdrills]: https://github.com/heategn/chessdrills "Chess Drills"
+[chessdrills]: https://github.com/heategn/chessdrills "Chess Drills"  
 [asciisectortradechart]: https://github.com/heategn/asciisector_trade_chart "Ascii Sector Trade Chart"
 
 <a href="#chessdrills">Chess Drills</a> ([project page][chessdrills])
@@ -9,7 +9,7 @@
 ## Chess Drills
 <a name="chessdrills"></a>
 
-[project page][chessdrills]
+[Project page][chessdrills]
 
 Chess Drills is a suite of drills designed to improve your chess.
 
@@ -20,8 +20,8 @@ Note: This graphic quality on this sample is much lower that what you'd actually
 ## Ascii Sector Trade Chart
 <a name="asciisectortradechart"></a>
 
-[project page][asciisectortradechart]
+[Project page][asciisectortradechart]
 
-An interactive trade chart for the game [Ascii Sector](http://www.asciisector.net/).
+An interactive trade chart for the game [Ascii Sector](http://www.asciisector.net/) (external link).
 
 ![grid-view](https://github.com/heategn/site/blob/master/asciisector_grid.png)
