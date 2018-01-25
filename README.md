@@ -1,9 +1,9 @@
 # Projects
 
-[chessdrills]: https://github.com/heategn/chessdrills "Chess Drills"  
+[chessdrills]: https://github.com/heategn/chessdrills "Chess Drills"
 [asciisectortradechart]: https://github.com/heategn/asciisector_trade_chart "Ascii Sector Trade Chart"
 
-<a href="#chessdrills">Chess Drills</a> ([project page][chessdrills])
+<a href="#chessdrills">Chess Drills</a> ([project page][chessdrills])  
 <a href="#asciisectortradechart">Ascii Sector Trade Chart</a> ([project page][asciisectortradechart])
 
 ## Chess Drills
