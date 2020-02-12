@@ -19,13 +19,13 @@ ChessDrills is a suite of mini chess games designed to improve your chess. It cu
 	<div>
 		<h4>Invisible Pairs</h4>
 		<video width="320" height="240" controls>
-			<source type="video/mp4" src="/invisiblepairs.mp4">
+			<source type="video/mp4" src="https://raw.githubusercontent.com/heategn/site/master/invisiblepairs.mp4">
 		</video>
 	</div>
 	<div>
 		<h4>Quick Capture</h4>
 		<video width="320" height="240" controls>
-			<source type="video/mp4" src="/quickcapture.mp4">
+			<source type="video/mp4" src="https://raw.githubusercontent.com/heategn/site/master/quickcapture.mp4">
 		</video>
 	</div>
 </div>
@@ -35,4 +35,4 @@ ChessDrills is a suite of mini chess games designed to improve your chess. It cu
 
 An interactive trade chart for the game [Ascii Sector](http://www.asciisector.net/).
 
-![grid-view](https://github.com/heategn/site/raw/master/asciisector_grid.png)
+![grid-view](https://raw.githubusercontent.com/heategn/site/master/asciisector_grid.png)
